@@ -1,4 +1,4 @@
-# IBM-NJ--real-time-chat-application
+
 💬 Real-Time Chat Application
 
 A Real-Time Chat Application built using modern web technologies that enables instant messaging between users. The app provides a smooth, secure, and responsive chatting experience using WebSocket / Socket.IO for real-time communication.
